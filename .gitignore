@@ -1,0 +1,13 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Data
+data/*
+
+# Jupiter Notebook
+.ipynb_checkpoints
